@@ -1,6 +1,6 @@
 # Clean Code
 
-This project is a workshop about clean code principles. It's based on the famous book Clean code by R. MARTIN.
+This project is a workshop about clean code principles. It's based on [the famous book Clean code by R. MARTIN](https://www.oreilly.com/library/view/clean-code-a/9780136083238/).
 It aims to help (not only) beginners to embrace the principles described in the book. 
 
 ## Getting Started
